@@ -1,6 +1,6 @@
-# state
+# Todo List
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a Todo list in Vue. which uses pinia and persists data even if the browser reloads.
 
 ## Recommended IDE Setup
 
